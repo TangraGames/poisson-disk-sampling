@@ -7,4 +7,4 @@ https://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf
 
 Sample output from program:
 
-![Poisson Disk Sampling](docs/img/1-poisson-disk-sampling-macroquad-rust.png)
+![Poisson Disk Sampling](docs/img/1-poisson-disk-sampling-macroquad-rust.png | width = 600)
